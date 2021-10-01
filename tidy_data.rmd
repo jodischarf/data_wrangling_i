@@ -29,7 +29,11 @@ pulse_data_tidy =
     values_to = "bdi")
 ```
 
+<<<<<<< HEAD
 rewrite, combine, and extend (to add a mutate)
+=======
+rewrite, combine
+>>>>>>> 23aaed2a507dc9bb3a7b20347607714182e6cb29
 
 ```{r}
 pulse_data = 
