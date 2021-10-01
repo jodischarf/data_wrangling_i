@@ -116,7 +116,6 @@ litters_df =
   select(-pups_survive) %>% 
   mutate(wt_gain = gd18_weight - gd0_weight) %>% 
   drop_na(gd0_weight)
-  
 ```
 
 
